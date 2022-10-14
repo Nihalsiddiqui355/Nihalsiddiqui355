@@ -40,17 +40,21 @@
 
 <p align="right"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/deepak-singh5219/count.svg" />
+  <img src="https://profile-counter.glitch.me/nihalsiddiqui355/count.svg" />
 </p>
 
 <h3 align="left">Connect with me :smiley:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nihal-siddiqui-117124202/">
-  <img alt="Nihal's Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img alt="Nihal's Linkedin" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
   </a>&nbsp
   
-  <a href=" https://www.instagram.com/mrdecoder07/">
-    <img alt="Nihal Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
+  <a href="https://www.instagram.com/mrdecoder07/">
+    <img alt="Nihal Instagram" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
+  </a>&nbsp
+  
+   <a href="https://www.instagram.com/nihal_siddiqui_/">
+    <img alt="Nihal Instagram" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
   </a>&nbsp
  
   
