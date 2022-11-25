@@ -32,7 +32,7 @@
 ---
 
 ![Nihal's github stats](https://github-readme-stats.vercel.app/api?username=nihalsiddiqui355&show_icons=true&hide_border=true)
-<a href="https://github.com/deepak-singh5219" align="right">
+<a href="https://github.com/nihalsiddiqui355" align="right">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalsiddiqui355&theme=light&hide_langs_below=1" />
 </a>
 
