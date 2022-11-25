@@ -9,7 +9,7 @@
 - 🌱 I’m currently exploring everything
 - ⚡️ Learning Javascript and working on javascript project for trying to better my self.
 - 👯 Goal: Software Engineer
-- 🥅 2021 Goals: Contributions on Open Source, Competitive Programming
+<!-- - 🥅 2021 Goals: Contributions on Open Source, Competitive Programming -->
 - 📫 How to reach me: mr.decoder07@gmail.com
 - ⚡ Fun fact: I love to do photography📷 and expoloring the world
 
