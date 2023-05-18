@@ -9,9 +9,8 @@
 - 🌱 I’m currently exploring everything
 - ⚡️ Learning Javascript and working on javascript project for trying to better my self.
 - 👯 Goal: Software Engineer
-<!-- - 🥅 2021 Goals: Contributions on Open Source, Competitive Programming -->
 - 📫 How to reach me: mr.decoder07@gmail.com
-- ⚡ Fun fact: I love to do photography📷 and expoloring the world
+- ⚡ Fun fact: I love to do Travel and expoloring the world.
 
 ---
 
@@ -66,9 +65,6 @@
   <a>
     <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
   </a>
-  <!-- <a>
-    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=coder-KO.coder-KO" />
-  </a> -->
 </p>
 
 <img height="120" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
