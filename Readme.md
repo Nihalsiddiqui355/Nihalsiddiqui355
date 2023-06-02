@@ -7,10 +7,10 @@
 <img align="right" alt="GIF" width="400" height="400" src="https://media.giphy.com/media/xTiN0FXnoSlDhSjgR2/giphy.gif" />
 
 - 🌱 I’m currently exploring everything
-- ⚡️ Learning Javascript and working on javascript project for trying to better my self.
+- ⚡️ Learning Javascript and working on a javascript project to improve myself.
 - 👯 Goal: Software Engineer
 - 📫 How to reach me: mr.decoder07@gmail.com
-- ⚡ Fun fact: I love to do Travel and expoloring the world.
+- ⚡ Fun fact: I love to Travel and explore the world.
 
 ---
 
