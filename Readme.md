@@ -44,7 +44,7 @@
 
 <h3 align="left">Connect with me :smiley:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nihal-siddiqui-117124202/">
+  <a href="https://www.linkedin.com/in/nihalsiddiqui/">
   <img alt="Nihal's Linkedin" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
   </a>&nbsp
   
